@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: Headingrw
 - type: document
-  path: data/hero.yml
+  path: data/hero.yaml
   label: Hero
   read_only: true
 - type: document
-  path: data/aboutSection.yml
+  path: data/aboutSection.yaml
   label: About
 - type: document
   path: data/serviceSection.yml
