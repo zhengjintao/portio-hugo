@@ -32,5 +32,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- exampleSite/content/blog/个人网站上线.md
