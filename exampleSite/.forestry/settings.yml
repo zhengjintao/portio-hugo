@@ -7,6 +7,7 @@ sections:
 - type: document
   path: data/hero.yml
   label: Hero
+  read_only: true
 - type: document
   path: data/aboutSection.yml
   label: About
