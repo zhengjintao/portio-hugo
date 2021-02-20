@@ -4,12 +4,12 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: heading
-  label: Config
 - type: document
   path: data/hero.yaml
   label: Hero
-  read_only: true
+  read_only: false
+- type: heading
+  label: Config
 - type: document
   path: data/aboutSection.yaml
   label: About
