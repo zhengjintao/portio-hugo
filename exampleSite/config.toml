@@ -1,5 +1,5 @@
 baseURL = "http://webase.tech"
-languageCode = "en-us"
+languageCode = "zh-cn"
 paginate = 6
 theme = "portio"
 title = "维贝斯科技"
@@ -20,7 +20,7 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "发展历程"
 url = "#resume"
 weight = 5
 [[menu.main]]
