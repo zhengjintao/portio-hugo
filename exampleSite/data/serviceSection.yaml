@@ -1,9 +1,9 @@
 ---
 enable: true
 topTitle: Working Area
-title: |
+title: |-
   ## 服务
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+  提供软件相关各项服务，欢迎联系咨询。
 service:
 - content: "#### UI/UX 设计 \nLorem ipsum dolor sit amet conset sadipscing elitr, sed
     diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
