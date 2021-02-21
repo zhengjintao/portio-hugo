@@ -2,6 +2,6 @@
 enable: true
 topTitle: 文章
 title: |-
-  ## 近期文章
+  ### 近期文章
   各类技术分享学习。
 buttonTarget: 更多文章
