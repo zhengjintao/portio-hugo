@@ -44,7 +44,7 @@ name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "近期文章"
 url = "#"
 weight = 4
 [params]
