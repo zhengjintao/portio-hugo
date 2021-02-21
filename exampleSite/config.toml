@@ -2,7 +2,7 @@ baseURL = "http://webase.tech"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Webase.tech"
+title = "维贝斯科技"
 [[menu.main]]
 name = "主页"
 url = "#home"
