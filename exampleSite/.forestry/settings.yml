@@ -13,19 +13,19 @@ sections:
   path: exampleSite/data/aboutSection.yaml
   label: About
 - type: document
-  path: exampleSite/data/serviceSection.yml
+  path: exampleSite/data/serviceSection.yaml
   label: Services
 - type: document
   path: exampleSite/data/resumeSection.yml
   label: Resume
 - type: document
-  path: exampleSite/data/skillSection.yml
+  path: exampleSite/data/skillSection.yaml
   label: Skills
 - type: document
-  path: exampleSite/data/testimonialSection.yml
+  path: exampleSite/data/testimonialSection.yaml
   label: Testimonials
 - type: document
-  path: exampleSite/data/blogSection.yml
+  path: exampleSite/data/blogSection.yaml
   label: Blog Section
 - type: directory
   path: exampleSite/content/portfolio
