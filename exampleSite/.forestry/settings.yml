@@ -16,7 +16,7 @@ sections:
   path: exampleSite/data/serviceSection.yaml
   label: Services
 - type: document
-  path: exampleSite/data/resumeSection.yml
+  path: exampleSite/data/resumeSection.yaml
   label: Resume
 - type: document
   path: exampleSite/data/skillSection.yaml
@@ -27,6 +27,11 @@ sections:
 - type: document
   path: exampleSite/data/blogSection.yaml
   label: Blog Section
+- type: document
+  path: exampleSite/config.toml
+  label: Config File
+- type: heading
+  label: Contents
 - type: directory
   path: exampleSite/content/portfolio
   label: Portfolio
@@ -42,9 +47,6 @@ sections:
   label: Blog
   create: all
   match: "**/*"
-- type: document
-  path: exampleSite/config.toml
-  label: Config File
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
