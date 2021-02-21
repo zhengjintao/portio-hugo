@@ -8,7 +8,7 @@ name = "主页"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "关于我们"
 url = "#about"
 weight = 2
 [[menu.main]]
