@@ -23,12 +23,12 @@
 						</svg>
 					</div>
 					<div class="text-light footer__cta_content">
-						<span>Contact me</span>
-						<h2 class="mb-0">Let’s Start a Project</h2>
+						<span>联系我们</span>
+						<h2 class="mb-0">欢迎咨询合作或者提出任何问题</h2>
 					</div>
 					<div class="footer__cta_action">
-						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">Get in
-							touch</a>
+						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">发起咨询
+							</a>
 					</div>
 				</div>
 			</div>
@@ -41,7 +41,7 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="text-light footer__widget_sitemap mb-5">
-					<h4 class="base-font">Sitemap</h4>
+					<h4 class="base-font">网站导航</h4>
 					<ul class="unstyle-list small">
 						{{ $sitemap := .Site.Menus.sitemap }}
 						{{ range $sitemap }}
@@ -52,7 +52,7 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="text-light footer__widget_address mb-5">
-					<h4 class="base-font">Address</h4>
+					<h4 class="base-font">地址</h4>
 					{{ $address := .Site.Params.address }}
 					<ul class="fa-ul small">
 						<li class="mb-2"><a class="text-light" href="tel:{{ $address.phone }}"><span class="fa-li"><i
