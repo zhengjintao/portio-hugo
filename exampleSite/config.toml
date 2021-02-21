@@ -28,7 +28,7 @@ name = "文章"
 url = "#blog"
 weight = 6
 [[menu.main]]
-name = "Contact"
+name = "联系我们"
 url = "#contact"
 weight = 7
 [[menu.sitemap]]
