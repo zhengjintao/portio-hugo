@@ -1,7 +1,7 @@
 ---
 enable: true
 topTitle: 欢迎，这里是维贝斯科技
-content: "# 专注利用IT技术，提供优秀IT解决方案，助力客户信息化、高效化解决问题。 "
+content: "## 信息技术创造未来"
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
