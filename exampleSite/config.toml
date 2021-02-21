@@ -24,7 +24,7 @@ name = "Resume"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Blog"
+name = "文章"
 url = "#blog"
 weight = 6
 [[menu.main]]
