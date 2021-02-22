@@ -5,8 +5,9 @@ title: |-
   ## 服务
   提供软件相关各项服务，欢迎联系咨询。
 service:
-- content: "#### UI/UX 设计 \nLorem ipsum dolor sit amet conset sadipscing elitr, sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
+- content: |-
+    #### 搭建个人博客
+    个人博客系统开设
   image: images/service/ui-ux.svg
 - content: "#### Web Development \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
