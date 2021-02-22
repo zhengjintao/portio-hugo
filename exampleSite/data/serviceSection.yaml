@@ -9,8 +9,9 @@ service:
     #### 搭建个人博客
     个人博客系统开设
   image: images/service/ui-ux.svg
-- content: "#### Web Development \nLorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
+- content: |-
+    #### 搭建在线商城
+    电子商务系统搭建
   image: images/service/web.svg
 - content: "#### Creative Design \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
