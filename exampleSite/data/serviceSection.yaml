@@ -14,6 +14,10 @@ service:
     电子商务系统搭建
   image: images/service/web.svg
 - content: |-
+    #### 业务软件开发
+    OA办公软件，人事管理，财务管理，会计系统，总务管理系统导入
+  image: images/service/web.svg
+- content: |-
     #### 办公自动化
     协助客户导入办公自动化软件，减少企业在固定流程业务中的投入
   image: images/service/branding.svg
@@ -25,7 +29,3 @@ service:
     #### 人工智能
     智慧化解决方案导入，获取业界领先地位
   image: images/service/ui-ux.svg
-- content: |
-    #### Web Development
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/web.svg
