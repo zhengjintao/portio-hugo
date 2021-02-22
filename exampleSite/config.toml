@@ -57,9 +57,9 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 [params.address]
 address = "3-4 Shibazono Kawaguchi, Saitama, Japan."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+email = "xiaonei 0912@gmail.com"
+openingHours = "早上9点至下午7点 (周末及节假日休息)"
+phone = "+(81) 07085661186"
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
