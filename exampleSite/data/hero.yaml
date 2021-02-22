@@ -2,7 +2,7 @@
 enable: true
 topTitle: 欢迎，这里是维贝斯科技
 content: "## 信息技术创造未来"
-buttonName: Contact me
+buttonName: 给我留言
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
