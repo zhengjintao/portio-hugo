@@ -14,16 +14,16 @@ service:
     电子商务系统搭建
   image: images/service/web.svg
 - content: |-
+    #### 办公自动化
+    协助客户导入办公自动化软件，减少企业在固定流程业务中的投入
+  image: images/service/branding.svg
+- content: |-
     #### 数据分析平台建设
     整合各类数据，挖掘潜在数据潜在商业价值
   image: images/service/creative.svg
 - content: |-
-    #### 办公自动化
-    协助客户导入办公自动化软件，减少企业在固定流程业务中的投入
-  image: images/service/branding.svg
-- content: |
-    #### UI/UX Design
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+    #### 人工智能
+    智慧化解决方案导入，获取业界领先地位
   image: images/service/ui-ux.svg
 - content: |
     #### Web Development
